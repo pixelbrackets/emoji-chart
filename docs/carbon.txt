@@ -1,0 +1,14 @@
+$emojis = EmojiChart::getEmojis();
+
+// Returns an array of emoji
+array [
+  […]
+  [
+    'character' => '😀',
+    'unicode' => '1F600',
+    'name' => 'grinning face',
+    'shortname' => 'grinning',
+    'category' => 1,
+  ],
+  […]
+]
